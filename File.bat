@@ -1,4 +1,4 @@
 @echo off
 :loop
-start msg * "Message"
+start You
 goto loop
